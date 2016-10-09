@@ -1,0 +1,39 @@
+body {
+    width: 1200px;
+    height: auto;
+}
+
+nav {
+    list-style-type: none;
+    margin: 45;
+    padding: 0;
+    overflow: hidden;
+    color: #00;
+    background-color: #333;
+}
+
+.first{
+ font-size: 16pt;
+ display: inline;
+ margin: 50px
+}
+li.first a {
+   color: white;
+   text-align: center;
+   padding: 30px 40px;
+   text-decoration: none;
+}
+
+.second{
+  font-size: 14pt;
+  display: left;
+  margin: 10px;
+  list-style: none;
+}
+li.second a{
+  color: blue;
+  text-align: left;
+  padding: 5px 5px;
+  text-decoration: black;
+  margin: 30px;
+}

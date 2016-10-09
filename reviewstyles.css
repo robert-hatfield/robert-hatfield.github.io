@@ -1,0 +1,34 @@
+body{
+ width: 1200px;
+ height: auto;
+}
+
+nav {
+   list-style-type: none;
+   margin: 45;
+   padding: 0;
+   overflow: hidden;
+   color: #00;
+   background-color: #333;
+}
+
+.first{
+ font-size: 16pt;
+ display: inline;
+ margin: 50px
+}
+
+li.first a {
+   color: white;
+   text-align: center;
+   padding: 30px 40px;
+   text-decoration: none;
+}
+
+.user_review {
+  margin: 45;
+  background-color: lightgrey;
+  border: 1px solid black;
+  width: 800px;
+  height: auto;
+}
